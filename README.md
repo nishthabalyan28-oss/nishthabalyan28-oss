@@ -72,3 +72,24 @@ Tip: Link each project title to its own GitHub repository once it is uploaded. K
 - [ ] Learn machine learning algorithms and model evaluation
 - [ ] Build end-to-end Data Science projects
 - [ ] Create a portfolio that demonstrates real-world problem-solving
+- [ ] - solving
+📊 GitHub Overview
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+💬 A Little Reminder
+<div align="center">
+
+  “Great things happen when curiosity meets data.” ✨
+  Learning today. Building tomorrow. Becoming a Data Scientist.
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=110&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
